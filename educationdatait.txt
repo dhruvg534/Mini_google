@@ -1,0 +1,471 @@
+0
+0
+0
+0
+0 
+0
+0
+0
+0
+0
+0
+1
+C
+Production Department, PEC
+37, Vidya Path, Sector 2A, Chandigarh
+https://pec.ac.in/pie
+0
+0
+0
+0
+0
+0
+0
+5
+C
+National Institute Of Nursing Education
+PGIMER, Sector 12, Chandigarh
+https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/home.jsp
+C
+Chandigarh College of Architecture
+Vidya Path, Sector 12 D, Chandigarh
+http://cca.edu.in/home
+C
+Punjab Engineering College (Deemed to be University)
+Sector 12, Chandigarh
+https://pec.ac.in
+C
+Computer Science Department (PEC)
+Sector 12, Chandigarh
+https://pec.ac.in/cse
+C
+Post Graduate Institute of Medical Education & Research
+Madhya Marg, Sector 12, Chandigarh
+https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/home.jsp
+3
+C
+Post Graduate Government College
+Madhya Marg, Sector 11D, Chandigarh
+https://www.gc11.ac.in
+C
+National Institute Of Open Schooling
+YMCA Complex, Sector-11C, Chandigarh
+https://nios.ac.in
+C
+Government Central Craft Institution For Women
+Sector 11C, Chandigarh
+NA
+4
+C
+Government College of Art
+Jan Marg, Sector 10 C, near Government Museum and Art Gallery, Chandigarh
+https://www.gcart.edu.in
+C
+DAV College Chandigarh
+Sector 10D, Chandigarh
+https://www.davchd.ac.in
+C
+Government Polytechnic for Women
+Sector 10D, Chandigarh
+https://gpwchd.edu.in
+C
+Government Home Science College
+Madhya Marg, Sector 10D, Chandigarh
+http://www.homescience10.ac.in
+0
+14
+GMAT
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+GMAT
+Bulls Eye
+SCO 90, Madhya Marg, above Allahabad Bank, Sector 8C, Sector 8, Chandigarh
+https://www.hitbullseye.com
+GMAT
+IMS
+1st Floor, SCO 81, Madhya Marg, near HDFC Bank, Sector 8C, Chandigarh
+https://www.imsindia.com/index.html
+GRE
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+GRE
+Bulls Eye
+SCO 90, Madhya Marg, above Allahabad Bank, Sector 8C, Sector 8, Chandigarh
+https://www.hitbullseye.com
+GRE
+IMS
+1st Floor, SCO 81, Madhya Marg, near HDFC Bank, Sector 8C, Chandigarh
+https://www.imsindia.com/index.html
+UPSC
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+GATE
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+GATE
+Bulls Eye
+SCO 90, Madhya Marg, above Allahabad Bank, Sector 8C, Sector 8, Chandigarh
+https://www.hitbullseye.com
+IIT-JAM
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+IIT-JAM
+Bulls Eye
+SCO 90, Madhya Marg, above Allahabad Bank, Sector 8C, Sector 8, Chandigarh
+https://www.hitbullseye.com
+CAT
+Career Launcher
+2nd SCO 78-79, Madhya Marg, Sector 8C, Chandigarh
+https://www.careerlauncher.com
+CAT
+Bulls Eye
+SCO 90, Madhya Marg, above Allahabad Bank, Sector 8C, Sector 8, Chandigarh
+https://www.hitbullseye.com
+CAT
+IMS
+1st Floor, SCO 81, Madhya Marg, near HDFC Bank, Sector 8C, Chandigarh
+https://www.imsindia.com/index.html
+1
+C
+Lincoln School of Management
+SCO 35, 2nd Floor, Sector 7C, Chandigarh
+NA
+5
+C
+Chandigarh College of Engineering and Technology (CCET)
+Sector 26, Chandigarh
+http://ccet.ac.in
+C
+Guru Gobind Singh College for Women
+Sector 26 Rd, Sector 26, Chandigarh
+https://ggscw.ac.in
+C
+Sri Guru Gobind Singh College
+Sector 26, Chandigarh
+https://admission.sggscollege.ac.in/frmLogin.aspx?Id=56CR5HaEdwmIttxTeoiAaA4g==
+C
+Homoeopathic Medical College & Hospital
+M-671, Sector 26, Chandigarh
+https://www.hmcchd26.com
+C
+Dr IT Group, Chandigarh
+SCO 61, Madhya Marg, Sector 26, Chandigarh
+https://www.dritimt.in
+0
+0
+4
+C
+Panjab University Chandigarh
+Sector 14, Chandigarh
+https://www.puchd.ac.in
+C
+University Institute of Legal Studies
+Panjab University, Sector 14, Chandigarh
+https://uils.puchd.ac.in
+C
+University Business School
+Arts Block III, Madhya Marg, Panjab University, Sector 14, Chandigarh
+https://www.ubs.puchd.ac.in
+C
+University School of Open Learning
+Suraj Bhan Hall, Near Guru Tegh Bahadur Bhawan, Panjab University, Sector 14, Chandigarh
+https://usol.puchd.ac.in
+6
+GATE
+Gene academy
+SCF-76, 15D, Sector 15, Chandigarh
+NA
+GATE
+Guru Institute
+SCO: 31, Second Floor Sector: 15 C, Chandigarh
+https://www.guruchandigarh.com
+NET
+Gene academy
+SCF-76, 15D, Sector 15, Chandigarh
+NA
+NET
+Guru Institute
+SCO: 31, Second Floor Sector: 15 C, Chandigarh
+https://www.guruchandigarh.com
+IIT-JAM
+Gene academy
+SCF-76, 15D, Sector 15, Chandigarh
+NA
+IIT-JAM
+Guru Institute
+SCO: 31, Second Floor Sector: 15 C, Chandigarh
+https://www.guruchandigarh.com
+4
+C
+Aryans College of Education
+# 164 / 2, Sector- 16 A, Chandigarh
+https://aryans.edu.in
+GATE
+BANSAL Academy
+813, Sector 16 D, Sector 16, Chandigarh
+https://bansalacademy.com
+IIT-JAM
+Bansal Academy
+813, Sector 16 D, Sector 16, Chandigarh
+https://bansalacademy.com
+NET
+Bansal Academy
+813, Sector 16 D, Sector 16, Chandigarh
+https://bansalacademy.com
+7
+C
+Vidya Jyoti Eduversity
+SCO 100, near Batra Building, 17D, Sector 17, Chandigarh
+https://vjes.org/bachelor-in-journalism-mass-communication-bjmc.html
+C
+Academy Of Applied Arts
+7, Sector 17E,Jan Marg, Chandigarh
+NA
+C
+ITFT
+SCO 1-2-3, Level III, 17D, Sector 17, Chandigarh
+http://www.itft.edu.in
+GRE
+New Cambridge
+Top Floor Sector-17 D, S.C.O 80-81-82, ChandigarhÊ
+https://newcambridgecollege.com
+GRE
+Jamboree Education
+SCO 117-118-119, above Canara Bank Building, 17C, Chandigarh
+https://www.jamboreeindia.com
+GMAT
+New Cambridge
+Top Floor Sector-17 D, S.C.O 80-81-82, ChandigarhÊ
+https://newcambridgecollege.com 
+GMAT
+Jamboree Education
+SCO 117-118-119, above Canara Bank Building, 17C, Chandigarh
+https://www.jamboreeindia.com
+0
+2
+C
+Sanjeevni Institute Of Para Medical Sciences
+Sector 19D, Chandigarh
+https://www.sanjeevniinstitute.com
+C
+Brahmrishi Yoga Training College
+172, Madhya Marg, 19A, Sector 19, Chandigarh
+https://www.yogacollege.in
+0
+0
+0
+4
+C
+University Institute of Engineering & Technology
+South Campus, Panjab University, Chandigarh Rd, Sector 25, Chandigarh,
+https://uiet.puchd.ac.in
+C
+Dr. Harvansh Singh Judge Institute of Dental Sciences
+Near UIET, Panjab University south campus, Sector 25, Chandigarh
+https://dentalsciences.puchd.ac.in
+C
+Department Of Microbiology (PU)
+Sector 25, Chandigarh
+https://microbiology.puchd.ac.in
+C
+Department of Biotechnology (PU)
+Sector 25, Chandigarh
+https://www.biotechnology.puchd.ac.in
+4
+UPSC
+Synergy IAS academy
+SCO-153, Top Floor, Backside Entry Sector 24D, near PRIME LAB, Chandigarh
+NA
+NET
+Future Institute
+SCO 213, Sector 24D, Sector 24, Chandigarh
+NA
+NET
+Expert Opinion Academy
+SCO. 158, First Floor, Sector 24-D, Chandigarh
+https://expertopinionacademy.com
+IIT-JAM
+Future Institute
+SCO 213, Sector 24D, Sector 24, Chandigarh
+NA
+1
+C
+Government College Of Yoga Education And Health
+Sector 23 Near Chandigarh Traffic Park, ChandigarhÊ
+http://www.gcyeh.edu.in
+0
+0
+1
+C
+Government College of Education
+Sector 20D, Chandigarh
+https://www.gcechd.ac.in
+1
+C
+Indo Swiss Training Centre
+CSIR-Central Scientific Instruments Organisation (CSIR-CSIO, Sector 30-C, Chandigarh
+http://istc.ac.in
+0
+0
+3
+NET
+Zenith
+Stepping Stones Senior Secondary School (Campus, Sector 38, A, Chandigarh
+https://zenith-english-educationals.business.site
+GRE
+IIE Education, Chandigarh
+1st floor, sco-324, 24-7, Sector 38-D, Chandigarh
+https://iieeducation.in
+GMAT
+IIE Education, Chandigarh
+1st floor, sco-324, 24-7, Sector 38-D, Chandigarh
+https://iieeducation.in
+0
+6
+C
+Mehar Chand Mahajan DAV College for Women
+Sector 36A, Chandigarh
+https://mcmdavcwchd.edu.in
+C
+Dev Samaj College of Education
+Jan Marg, Sector 36B, Chandigarh
+https://devsamaj.org
+CAT
+TIME
+SCO 221, West Market Road near MCM Girls College, Sector 36-D, Chandigarh
+https://www.time4education.com
+GRE
+TIME
+SCO 221, West Market Road near MCM Girls College, Sector 36-D, Chandigarh
+https://www.time4education.com
+GMAT
+TIME
+SCO 221, West Market Road near MCM Girls College, Sector 36-D, Chandigarh
+https://www.time4education.com
+UPSC
+Dronacharaya
+SCO 205- 206, Sector 36D, Chandigarh
+https://dronacharyaias.in
+6
+C
+International Polytechnic For Women
+SCO 447-48,  Sub. City Center, Sector 35-C, Chandigarh
+https://www.iwpindiaonline.com/location/chandigarh/
+CAT
+Career Launcher
+2nd floor, 451-452, Sector 35C, Chandigarh
+https://www.careerlauncher.com/chandigarh/
+UPSC
+Career Launcher
+2nd floor, 451-452, Sector 35C, Chandigarh
+https://www.careerlauncher.com/chandigarh/
+GRE
+Career Launcher
+2nd floor, 451-452, Sector 35C, Chandigarh
+https://www.careerlauncher.com/chandigarh/
+GMAT
+Career Launcher
+2nd floor, 451-452, Sector 35C, Chandigarh
+https://www.careerlauncher.com/chandigarh/
+GATE
+Career Launcher
+2nd floor, 451-452, Sector 35C, Chandigarh
+https://www.careerlauncher.com/chandigarh/
+12
+C
+Allied College of Hospitality Culinary Arts & Management
+SCO 114-115( Top Level, Sector 34A, C, Chandigarh
+http://www.alliedchandigarh.com
+C
+UEI Global
+SCO-104-106, 3rd Floor, Sector 34(A Opp. Picadily Square mall, Chandigarh
+https://uei-global.com/hotel_management_institute_college_chandigarh_punjab.aspx
+GRE
+CAddMUS
+S.C.O-5 Top Floor Next to Gurudwara Sahib, Sector 34 C, Chandigarh
+NA
+GRE
+Bulls Eye
+4th floor, SCO, 226-227, above Virdi Eye Hospital, Sector 34A, Chandigarh
+https://www.hitbullseye.com
+GRE
+IMS
+SCO 218-219 4th Floor, Sector 34A, Chandigarh
+https://www.imsindia.com
+GMAT
+CAddMUS
+S.C.O-5 Top Floor Next to Gurudwara Sahib, Sector 34 C, Chandigarh
+NA
+GMAT
+Bulls Eye
+4th floor, SCO, 226-227, above Virdi Eye Hospital, Sector 34A, Chandigarh
+https://www.hitbullseye.com
+GMAT
+IMS
+SCO 218-219 4th Floor, Sector 34A, Chandigarh
+https://www.imsindia.com
+CAT
+Bulls Eye
+4th floor, SCO, 226-227, above Virdi Eye Hospital, Sector 34A, Chandigarh
+https://www.hitbullseye.com
+CAT
+IMS
+SCO 218-219 4th Floor, Sector 34A, Chandigarh
+https://www.imsindia.com
+GATE
+Bulls Eye
+4th floor, SCO, 226-227, above Virdi Eye Hospital, Sector 34A, Chandigarh
+https://www.hitbullseye.com
+IIT-JAM
+Bulls Eye
+4th floor, SCO, 226-227, above Virdi Eye Hospital, Sector 34A, Chandigarh
+https://www.hitbullseye.com
+0
+2
+C
+Goswami Ganesh Dutta Sanatan Dharma College
+Sector 32-C, Chandigarh
+http://ggdsd.ac.in
+C
+Government Medical College and Hospital
+Sector 32, Chandigarh
+http://gmch.gov.in
+1
+C
+Regional Institute for Mentally Handicapped
+Sector 31C, Chandigarh
+https://www.griid.edu.in
+0
+0
+0
+2
+C
+Post Graduate Govt. College for Girls
+Sector 42, Chandigarh
+https://www.gcg42.ac.in
+C
+Chandigarh Institute of Hotel Management & Catering Technology
+Sector 42 D, Chandigarh
+http://cihmct.com
+0
+0
+1
+C
+Dev Samaj College for Women
+Sector 45B, Chandigarh
+https://www.dscw45.ac.in
+2
+C
+Post Graduate Government College
+Sector 46B, Chandigarh
+http://pggc46.ac.in
+C
+Shri Dhanwantry Ayurvedic College
+Sector 46-B,. Chandigarh-160047
+https://www.sdach.ac.in
+0
